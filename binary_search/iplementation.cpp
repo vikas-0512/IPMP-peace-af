@@ -2,7 +2,7 @@
 using namespace std;
 void binarysearch(int arr[],int n,int key)
 {
-    int s=0,e=n-1,mid=(n-1)/2;
+    int s=0,e=n-1,mid=(n-1)/2;lkjhg
     while(s<=e)
     {
         cout<<"hello"<<endl;
